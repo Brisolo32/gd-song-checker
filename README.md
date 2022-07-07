@@ -1,3 +1,3 @@
 # GD Song Checker
 
-todo: do the whole thing
+it's auto descriptive, the name say's it all 
